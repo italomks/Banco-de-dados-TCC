@@ -1,12 +1,11 @@
 # Banco-de-dados-TCC
 
-1)SERÃO 4 TABELAS, "INFORMAÇÕES PESSOAIS, DIVERSIDADE, FORMAÇÃO EDUCACIONAL, PRETENÇÃO PROFISSIONAL";
+1)SERÃO 5 TABELAS, "INFORMAÇÕES PESSOAIS, DIVERSIDADE, FORMAÇÃO EDUCACIONAL, PRETENÇÃO PROFISSIONAL, CURRICULO";
 
 2) CAMPOS DA TABELA DE INFORMAÇÕES PESSOAIS: 
   
   Nome Completo
   E-mail
-  Confirmar Email
   Data de Nascimento
   Sexo
   Estado Civil
@@ -48,5 +47,6 @@
       Esta empregado atualmente
     
   
-  
- 
+   5) CAMPO DA TABELA CURRICULO
+   
+      Curriculo
